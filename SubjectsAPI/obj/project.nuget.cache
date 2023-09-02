@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZJfsHYpvjIv/tKbvqYKwoPPlj+GkmEOB7G7nuC/YkS/uNGAjmy/wsu9BbOBEllxPayU4D4cDajJ5WvRadwTJzQ==",
+  "dgSpecHash": "ANNwvQm5Si0HWLScJ4omypuwXrjMMGPKKeTJZiyLs0R2F2UHCl3QUC0ADwgCGVOZuhrbVGL+C5b0ct90mODKdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\SubjectsAPI\\SubjectsAPI\\SubjectsAPI.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\SubjectsAPI\\SubjectsAPI\\SubjectsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

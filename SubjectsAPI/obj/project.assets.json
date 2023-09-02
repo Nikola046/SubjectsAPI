@@ -3730,11 +3730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\SubjectsAPI\\SubjectsAPI\\SubjectsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\SubjectsAPI\\SubjectsAPI\\SubjectsAPI.csproj",
       "projectName": "SubjectsAPI",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\SubjectsAPI\\SubjectsAPI\\SubjectsAPI.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\SubjectsAPI\\SubjectsAPI\\SubjectsAPI.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\SubjectsAPI\\SubjectsAPI\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\GitHub\\SubjectsAPI\\SubjectsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
